@@ -1,5 +1,8 @@
 ## Real world authentication example using Google 
 
+[![Build Status](https://travis-ci.org/heron2014/hapi-auth-google-real-world-example.svg?branch=master)](https://travis-ci.org/heron2014/hapi-auth-google-real-world-example)
+
+
 A functional example Hapi.js app demonstrating hapi-auth-google authentication using Redis with tests! 
 
 ## Run it Yourself!
